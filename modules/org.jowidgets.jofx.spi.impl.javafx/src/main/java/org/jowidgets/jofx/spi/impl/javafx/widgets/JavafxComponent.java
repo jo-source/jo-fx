@@ -337,12 +337,12 @@ public class JavafxComponent implements IComponentSpi {
 
 	@Override
 	public void addMouseMotionListener(final IMouseMotionListener arg0) {
-		System.out.println("NO IMPLEMENTED YET");
+		//TODO not implemented yet
 	}
 
 	@Override
 	public void removeMouseMotionListener(final IMouseMotionListener arg0) {
-		System.out.println("NO IMPLEMENTED YET");
+		//TODO not implemented yet
 	}
 
 	@Override

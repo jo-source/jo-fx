@@ -159,23 +159,23 @@ public abstract class AbstractActionComponent extends ActionObservable implement
 
 	@Override
 	public void addMouseMotionListener(final IMouseMotionListener arg0) {
-		System.out.println("NO IMPLEMENTED YET");
+		//TODO not implemented yet
 	}
 
 	@Override
 	public void removeMouseMotionListener(final IMouseMotionListener arg0) {
-		System.out.println("NO IMPLEMENTED YET");
+		//TODO not implemented yet
 	}
 
 	@Override
 	public boolean isEnabled() {
-		System.out.println("NO IMPLEMENTED YET");
+		//TODO not implemented yet
 		return true;
 	}
 
 	@Override
 	public void setEnabled(final boolean arg0) {
-		System.out.println("NO IMPLEMENTED YET");
+		//TODO not implemented yet
 	}
 
 	@Override
